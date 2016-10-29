@@ -1,0 +1,2 @@
+# MINEIRO
+mineração de criptomoedas
